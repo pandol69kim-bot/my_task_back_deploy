@@ -9,6 +9,8 @@ const app = express();
 
 
 // 액션테스트
+// 액션테스트
+
 
 app.use(cors()); // 크로스 오리진 설정
 app.use(express.json()); // 제이슨 데이터 파싱
